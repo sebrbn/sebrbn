@@ -12,7 +12,6 @@ Computer Science undergraduate with hands-on experience in full-stack web develo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sebrbn&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
